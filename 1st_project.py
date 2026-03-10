@@ -1,3 +1,3 @@
 print("hello")
 
-print("HELLO EVRY ON ")
+print("HELLO ")
